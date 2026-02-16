@@ -1,3 +1,7 @@
+# Volatility Surface Modeling
+
+![SVI Surface](visualizations/svi-surface.png)
+
 The most famous equation in finance is almost undoubtedly that of the Black-Scholes model:
 
 $\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} + r S \frac{\partial V}{\partial S} - r V = 0$,
